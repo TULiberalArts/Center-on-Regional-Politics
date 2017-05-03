@@ -8,7 +8,7 @@ baseurl: /center-on-regional-politics
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout southeastern Pennsylvania, with the goal of developing evidence-based policies that respond to the region’s needs and promote its broad civic and economic interests.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 8th Floor
   street: 1114 West Berks St
   city: Philadelphia, PA 19122
-  email:
+  email: 
   phone:
 
 # Social Media
