@@ -15,11 +15,11 @@ keywords: highered, college, university, philadelphia, Temple
 # Address
 address:
   building: Anderson Hall
-  room: 8th Floor
+  room: 840
   street: 1114 West Berks St
   city: Philadelphia, PA 19122
-  email: 
-  phone:
+  email: corp@temple.edu
+  phone: 215-204-1600
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -28,7 +28,7 @@ social:
   # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - http://twitter.com/TempleCORP
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
