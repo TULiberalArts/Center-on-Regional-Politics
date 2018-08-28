@@ -9,6 +9,7 @@ feature-title: null
 feature-image: null
 feature-body: null
 published: true
+promotion-table: true
 ---
 
 The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout Southeastern Pennsylvania, with the goal of developing evidence-based policies that respond to the region’s needs and promote its broad civic and economic interests.
@@ -18,27 +19,27 @@ Temple University’s Center on Regional Politics (CORP) provides elected federa
 Toward this end, the center produces and sponsors policy research and conducts educational seminars, legislative briefings, quiet discussions, and open forums to improve public understanding of problems and opportunities confronting the region and to encourage collaboration among leaders across partisan lines, economic sectors, and jurisdictional boundaries.  The center works cooperatively with other organizations with public policy missions to maximize the efficient use of scarce resources for the overall benefit of the region.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
-    image="" 
-    button-link=" " 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title=" "
+    content=" "
+    image=""
+    button-link=" "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
-      image="" 
-      button-link=" " 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title=" "
+      content=" "
+      image=""
+      button-link=" "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
-        image="" 
-        button-link=" " 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title=" "
+        content=" "
+        image=""
+        button-link=" "
         button-text="Learn More" %}
       </div>
 </div>
