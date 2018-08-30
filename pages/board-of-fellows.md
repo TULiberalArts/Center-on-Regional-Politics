@@ -11,16 +11,16 @@ keywords:
 sidebar: false
 ---
 ## 2018 Board of Fellows
-## Federal Elected
+### Federal Elected
 - The Honorable Dwight Evan- Member, U.S. House of Representatives
 
-## Statewide
+### Statewide
 - The Honorable Eugene DePasquale- Auditor General, Commonwealth of PA, and Chairman, Delaware River Port Authority
 - The Honorable Michael J. Stack, III- Lieutenant Governor, Commonwealth of PA
 
 ___
 
-## Pennsylvania General Assembly
+### Pennsylvania General Assembly
 - The Honorable Andrew E. Dinnima- Member, Pennsylvania Senate
 - The Honorable Art Haywood- Member, Pennsylvania Senate
 - The Honorable Vincent J. Hughes- Member, Pennsylvania Senate
@@ -54,7 +54,7 @@ ___
 
 ___
 
-## Local Elected Officials
+### Local Elected Officials
 - The Honorable Valerie Arkoosh-	Chair, Montgomery County Commissioners
 - The Honorable Cindy Bass-	Member, Philadelphia City Council
 - The Honorable Kathi Cozzone-	Vice Chair, Chester County Commissioners
@@ -70,7 +70,7 @@ ___
 
 ___
 
-## Community/Civic/Governmental
+### Community/Civic/Governmental
 - Laurie Actman-	Chief Operating Officer, Penn Center for Innovation
 - John Grady-	President, Philadelphia Industrial Development Corporation (PIDC)
 - Julie Coker Graham-	President and CEO, Philadelphia Convention and Visitors Bureau
@@ -89,7 +89,7 @@ ___
 
 ___
 
-## Business/Labor
+### Business/Labor
 - Emily L. Bittenbender-	Managing Partner, Bittenbender Construction, LP
 - Ryan N. Boyer-	Business Manager, Laborers' District Council of Philadelphia and Vicinity
 - Steven Scott Bradley-	Chair, African American Chamber of Commerce of PA, NJ, and DE
@@ -104,7 +104,7 @@ ___
 
 ___
 
-## Academia
+### Academia
 - Carolyn T. Adams-	Professor Emerita, Department of Geography and Urban Studies, Temple University
 - Jim Cawley-	Vice President of Institutional Advancement, Temple University
 - Nyron N. Crawford-	Assistant Professor, Department of Political Science, Temple University
