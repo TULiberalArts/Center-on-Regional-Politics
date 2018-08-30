@@ -19,11 +19,9 @@ sidebar: false
 
 
 
-
-
 ___
 
-![Fund Balance]({{site.baseurl}}/media/Fund-Balance-Update-2018-web-page-one-2-1-e1532448121405.png){:.img-right}
+![Fund Balance]({{site.baseurl}}/media/Fund-Balance-Update-2018-web-page-one-2-1-e1532448121405.png){:.img-left}
 [POLICY BRIEF: Explaining School Fund Balances: Are PA Local Education Agencies, with a $4.9 Billion Fund Balance, Holding Too Much in Reserve? An Update for FY 2016-17 | July 2018
 View the report calculations in Excel.](https://drive.google.com/file/d/1cOCrpu5arH_un8sLUKg5MHfRzqgZpXCE/view?usp=sharing)
 
