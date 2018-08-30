@@ -10,8 +10,9 @@ feature: true
 feature-title: Developing Evidence-Based Policies that Respond to the Region’s Needs and Promote its Broad Civic and Economic Interests
 feature-image: media/HarrisburgCapitol_000.jpeg
 feature-body: >-
-  The Center on Regional Politics provides neutral ground and intellectual resources to
-  encourage and support interaction among leaders throughout Southeastern Pennsylvania.
+  The Center on Regional Politics provides neutral ground
+  and intellectual resources to encourage and support interaction
+  among leaders throughout Southeastern Pennsylvania.
 sidebar: false
 promotion-table: false
 ---
