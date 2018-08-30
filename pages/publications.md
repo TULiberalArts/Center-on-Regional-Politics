@@ -14,6 +14,10 @@ sidebar: false
 ![Fund Balance]({{site.baseurl}}/media/Fund-Balances-Update-2018-at-a-Glance-page-one-2-e1532448636152.png){:.img-right}
 [RESEARCH AT A GLANCE: Explaining School Fund Balances – 2018 Are Schools Holding Too Much in Reserve? - July 2018](https://drive.google.com/file/d/1Hiz5KdtamM0m8HpusDPfk7K3BKzYUGBl/view?usp=sharing)
 
+
+
+
+
 ___
 
 ![Fund Balance]({{site.baseurl}}/media/Fund-Balance-Update-2018-web-page-one-2-1-e1532448121405.png){:.img-right}
