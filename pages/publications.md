@@ -8,7 +8,6 @@ title: Publications
 description: >-
 keywords:
 # custom variables
-sidebar: false
 ---
 ## Publications
 ![Fund Balance]({{site.baseurl}}/media/Fund-Balances-Update-2018-at-a-Glance-page-one-2-e1532448636152.png){:.img-right}
@@ -205,4 +204,4 @@ ___
 ![BULLETIN]({{site.baseurl}}/media/Brochure-Cover-128x300.png){:.img-right}
 [Center on Regional Politics Brochure 2014 ](https://drive.google.com/file/d/1zHYdX45yL72w3-7JYC358S1A2hzXqF3p/view?usp=sharing)
 - [Politics as a means, not an end. January 13, 2012](https://drive.google.com/file/d/1wJ1mU5tfaytA2QstjMI-csiCTdh2ILAY/view?usp=sharing)
-- [The Temple Municipal Governance Survey: How Pennsylvanians View Their Local Governments](https://drive.google.com/file/d/14uR0H3WyMqBkX3ntG9sanJ7gbBbLDHlz/view?usp=sharing) 
+- [The Temple Municipal Governance Survey: How Pennsylvanians View Their Local Governments](https://drive.google.com/file/d/14uR0H3WyMqBkX3ntG9sanJ7gbBbLDHlz/view?usp=sharing)

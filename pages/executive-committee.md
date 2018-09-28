@@ -8,7 +8,6 @@ title: Executive Committee
 description: >-
 keywords:
 # custom variables
-sidebar: false
 ---
 ## 2018 Executive Committee
 - The Honorable Dwight Evan- Member, U.S. House of Representatives

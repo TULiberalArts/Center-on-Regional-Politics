@@ -8,7 +8,6 @@ title: Board of Fellows
 description: >-
 keywords:
 # custom variables
-sidebar: false
 ---
 ## 2018 Board of Fellows
 ### Federal Elected

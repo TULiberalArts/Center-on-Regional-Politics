@@ -8,7 +8,6 @@ title: Affiliated Centers
 description: >-
 keywords:
 # custom variables
-sidebar: false
 ---
 ![IPA]({{site.baseurl}}/media/InstPubAffairs_Blk-300x104.jpg){:.img-right}
 ## Institute for Public Affairs

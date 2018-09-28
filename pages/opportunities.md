@@ -8,7 +8,6 @@ title: Opportunities
 description: >-
 keywords:
 # custom variables
-sidebar: false
 ---
 The center will serve as a point of contact for elected officials seeking student interns in local, state, or federal legislative or executive offices.
 
