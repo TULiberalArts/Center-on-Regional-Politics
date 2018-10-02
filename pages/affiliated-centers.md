@@ -11,7 +11,7 @@ keywords:
 ---
 ![IPA]({{site.baseurl}}/media/InstPubAffairs_Blk-300x104.jpg){:.img-right}
 ## Institute for Public Affairs
-Temple University’s [Institute for Public Affairs](http://develop.cla.temple.edu/institute-for-public-policy/) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+Temple University’s [Institute for Public Affairs](http://develop.cla.temple.edu/institute-for-public-affairs/) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 IPA research targets important social, economic, and political problems, and public policies that address them.
 IPA seeks to foster collaboration and intellectual exchange across disciplines.
