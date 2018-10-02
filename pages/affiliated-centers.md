@@ -9,8 +9,7 @@ description: >-
 keywords:
 # custom variables
 ---
-![IPA]({{site.baseurl}}/media/InstPubAffairs_Blk-300x104.jpg){:.img-right}
-## Institute for Public Affairs
+![IPA]({{site.baseurl}}/media/InstPubAffairs_Blk-300x104.jpg){:.responsive-img .img-right}
 Temple University’s [Institute for Public Affairs](http://develop.cla.temple.edu/institute-for-public-affairs/) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 IPA research targets important social, economic, and political problems, and public policies that address them.
@@ -26,7 +25,7 @@ They collaborate with faculty and other researchers around the country on survey
 
 ___
 
-![PA Database]({{site.baseurl}}/media/HarrisburgCapitol_000.jpeg){:.img-right}
+![PA Database]({{site.baseurl}}/media/HarrisburgCapitol_000.jpeg){:.responsive-img .img-right}
 ## Pennsylvania Policy Database Project
 The Pennsylvania Policy Database Project is a free, online resource that provides access to more than 160,000 state and news media records and enables users to trace and analyze with a few mouse clicks the history of public policy in the Commonwealth since 1979.  Designed for easy use by educators, students, researchers, policy makers, news reporters, and the general public, it is the first comprehensive state policy database of its kind.
 
