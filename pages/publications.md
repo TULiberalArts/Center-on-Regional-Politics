@@ -6,5 +6,5 @@ published: true
 # meta-data variables
 title: Publications
 # custom variables
-research: research.html
+#research: research.html
 ---
