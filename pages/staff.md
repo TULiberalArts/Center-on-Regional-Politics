@@ -7,3 +7,4 @@ published: true
 title: Staff
 # custom variables
 ---
+staf and affiliated
