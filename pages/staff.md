@@ -5,6 +5,7 @@ permalink: /staff/
 published: true
 # meta-data variables
 title: Staff
-faculty: true
 # custom variables
+faculty: profiles/faculty.html
+emeritus: profiles/affiliated.html
 ---
