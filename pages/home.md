@@ -7,13 +7,12 @@ published: true
 title: Home
 # custom variables
 feature: true
-feature-title: 
+feature-title:
 feature-image: media/center-on-regional-politics.png
 feature-body: >-
   The Center on Regional Politics provides neutral ground
   and intellectual resources to encourage and support interaction
   among leaders throughout Southeastern Pennsylvania.
-promotion-table: false
 ---
 ![CORP logo]({{site.baseurl}}/media/resizedcorplogo.png){:.responsive-img .img-right}
 ## Developing Evidence-Based Policies that Respond to the Region’s Needs and Promote its Broad Civic and Economic Interests
