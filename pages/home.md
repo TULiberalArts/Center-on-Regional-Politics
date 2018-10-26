@@ -21,29 +21,3 @@ Temple University’s Center on Regional Politics (CORP) provides elected federa
 Toward this end, the center produces and sponsors policy research and conducts educational seminars, legislative briefings, quiet discussions, and open forums to improve public understanding of problems and opportunities confronting the region and to encourage collaboration among leaders across partisan lines, economic sectors, and jurisdictional boundaries. The center works cooperatively with other organizations with public policy missions to maximize the efficient use of scarce resources for the overall benefit of the region.
 
 ___
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="NEED CONTENT IF BOXES ARE STAYING"
-    content=" "
-    image=""
-    button-link=" "
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT IF BOXES ARE STAYING"
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NEED CONTENT IF BOXES ARE STAYING"
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
