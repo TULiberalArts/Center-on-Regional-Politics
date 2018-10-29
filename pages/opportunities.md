@@ -80,6 +80,8 @@ No phone calls or faxes. Due to the volume of applications, the office of State 
 
 All qualified candidates are encouraged to apply. State Representative Jordan A. Harris is an equal opportunity employer.
 
+___
+
 ### Office of State Rep. Brian Sims- Philadelphia Office
 The District Office of Pennsylvania State Representative Brian Sims (D-182) is seeking student interns to work with our office during the upcoming spring semester. Our office is dedicated to serving the residents of the 182nd legislative district of Pennsylvania, which encompasses much of Center City and surrounding neighborhoods north and south of the downtown area. The role of the District Office is to provide constituent services, local outreach, event coordination, responses to policy inquiries, community engagement and effectively communicate the legislative agenda in Harrisburg with our constituents in the district.
 
