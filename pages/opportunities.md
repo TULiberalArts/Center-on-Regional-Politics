@@ -29,6 +29,8 @@ Philadelphia, PA 19107<br>
 [(215) 686-3412](tel:2156863412)<br>
 (215) 686-1932 Fax<br>
 
+___
+
 ### Office of State Rep. Jordan A. Harris – Philadelphia Office
 **State Representative Jordan A. Harris, 186th Legislative District
 Spring 2015 Internship**
