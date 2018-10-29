@@ -8,7 +8,7 @@ title: Home
 # custom variables
 feature: true
 feature-title:
-feature-image: 
+feature-image: media/newhero.png	
 feature-body: >-
   The Center on Regional Politics provides neutral ground
   and intellectual resources to encourage and support interaction
