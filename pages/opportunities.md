@@ -19,11 +19,13 @@ The center will serve as a point of contact for elected officials seeking studen
 ### Office of Philadelphia City Councilman Kenyatta Johnson
 ### Internship in City Council
 
-**The Office of City Councilman Kenyatta Johnson is looking for interns. Please contact:**
-Steven A. Cobb, Esq.<br>
+**The Office of City Councilman Kenyatta Johnson is looking for interns. Please contact:**<br>
+
+**Steven A. Cobb, Esq.**<br>
 Director of Legislation<br>
 Office of City Councilman<br>
-Kenyatta Johnson<br>
+
+**Kenyatta Johnson**<br>
 City Hall, Room 580<br>
 Philadelphia, PA 19107<br>
 [(215) 686-3412](tel:2156863412)<br>
