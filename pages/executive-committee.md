@@ -29,7 +29,5 @@ keywords:
 - Feather O. Houstoun- Former Member, School Reform Commission
 - Rob Wonderlin- President and CEO, Greater Philadelphia Chamber of Commerce
 
-<div class="container video-container">
-<iframe src="https://e.infogram.com/044ac57a-4d51-424b-917c-60be74a76c16?src=embed" title="School Districts with Expenditures under $19 Million Unassigned Fund Balances, 2016-17" width="550" height="824" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
-</div>
 
+<iframe src="https://e.infogram.com/044ac57a-4d51-424b-917c-60be74a76c16?src=embed" title="School Districts with Expenditures under $19 Million Unassigned Fund Balances, 2016-17" width="550" height="824" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
