@@ -24,3 +24,8 @@ The follwing links below lead to the detailed archives of the center's past symp
 - [October 3, 2014 Public School Finance Symposium II](https://sites.temple.edu/corparchives/october-2014-public-school-finance-symposium-ii/) 
 
 - [May 6, 2015 Public School Finance Symposium III](https://sites.temple.edu/corparchives/may-2015-public-school-finance-symposium-iii/)
+
+
+## News Archives
+
+[PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/posts/pa-school-district-fund-balances-update-2018/)
