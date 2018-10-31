@@ -23,5 +23,4 @@ The financial industry suggests that a government unassigned fund balance should
 
 On average, the brief notes, school districts have unassigned fund balances just above the minimum recommendation of 5%. Charters, which operate as non-profits have slightly higher fund balances, on average, while technical schools have somewhat lower unassigned reserves. However, these balances are not distributed normally across districts. Instead, the majority of districts have unassigned fund balances below 10%, while a smaller number have unassigned reserves that represent a much higher share of total expenditures.
 
-
 <embed width="100%" height="520" frameborder="0" src="https://mjather.carto.com/viz/1ae6ed02-43a7-11e6-9d69-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></embed>
