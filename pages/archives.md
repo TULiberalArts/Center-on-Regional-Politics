@@ -28,4 +28,4 @@ The follwing links below lead to the detailed archives of the center's past symp
 
 ## News Archives
 
-[PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/posts/pa-school-district-fund-balances-update-2018/)
+[PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/pa-school-district-fund-balances-update-2018/)
