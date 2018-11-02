@@ -38,6 +38,6 @@ The follwing links below lead to the detailed archives of the center's past symp
 
 - **June 9, 2016** [The Problem of Funding Pensions: An Update](http://develop.cla.temple.edu/center-on-regional-politics/the-problem-of-funding-pensions-an-update/)
 
-- **February 5, 2016** [CORP Policy Brief in College of Liberal Arts News]()
+- **February 5, 2016** [CORP Policy Brief in College of Liberal Arts News](http://develop.cla.temple.edu/center-on-regional-politics/corp-policy-brief-in-college-of-liberal-arts-news/)
 
 
