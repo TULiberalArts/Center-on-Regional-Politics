@@ -32,6 +32,6 @@ The follwing links below lead to the detailed archives of the center's past symp
  
 - **July 14, 2017:** [Are PA Schools Holding Too Much in Reserve?](http://develop.cla.temple.edu/center-on-regional-politics/are-pa-schools-holding-too-much-in-reserve/)
 
-- **March 9, 2017:** [CORP Policy Brief: Hard Choices Ahead for PA School Districts](http://develop.cla.temple.edu/center-on-regional-politics/corp-policy-brief-hard-choices-ahead-for-pa-school-districts)
+- **March 9, 2017:** [CORP Policy Brief: Hard Choices Ahead for PA School Districts](http://develop.cla.temple.edu/center-on-regional-politics/corp-policy-brief-hard-choices-ahead-for-pa-school-districts/)
 
-- **July 6, 2016**<br> [PA School Districts’ Fund Balances: An Update](http://develop.cla.temple.edu/center-on-regional-politics/pa-school-districts-fund-balances-an-update)
+- **July 6, 2016**<br> [PA School Districts’ Fund Balances: An Update](http://develop.cla.temple.edu/center-on-regional-politics/pa-school-districts-fund-balances-an-update/)
