@@ -22,3 +22,7 @@ keywords:
 - **June 9, 2016** [The Problem of Funding Pensions: An Update](develop.cla.temple.edu/center-on-regional-politics/the-problem-of-funding-pensions-an-update/)
 
 - **February 5, 2016** [CORP Policy Brief in College of Liberal Arts News](develop.cla.temple.edu/center-on-regional-politics/corp-policy-brief-in-college-of-liberal-arts-news/)
+
+- **January 27, 2016** [How Well Does Philadelphia Support Its Public Schools? – Research at a Glance](develop.cla.temple.edu/center-on-regional-politics/how-well-does-philadelphia-support-its-public-schools-research-at-a-glance/)
+
+- ** ** [CORP RAND Study Closing school achievement gaps means billions for PA economy](develop.cla.temple.edu/center-on-regional-politics/corp-rand-study-closing-school-achievement-gaps-means-billions-for-pa-economy/)
