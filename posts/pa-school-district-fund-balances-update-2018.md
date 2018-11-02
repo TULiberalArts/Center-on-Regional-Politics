@@ -9,8 +9,8 @@ description: >-
 keywords:
 # custom variables
 ---
-**July 16, 2018**<br>
 
+**July 16, 2018**<br>
 A [policy brief](https://drive.google.com/file/d/1Hiz5KdtamM0m8HpusDPfk7K3BKzYUGBl/view?usp=sharing) published by the Center on Regional Politics in July 2018 provides data on the status of fund balances for Pennsylvania’s 500 school districts at the end of fiscal year 2016-17. Although the data show that total reserve funds have increased by about $591 million since 2012-13, from $4.3 billion to $4.9 billion, they also show that the flexible reserves of most districts are within or even below the minimum standards recommended by bond raters and government finance professionals and allowed by state law.
 
 The brief summarizes trends for districts, charters, and technical schools. The brief explains the four types of fund balances: restricted, committed, assigned, and unassigned. It also explains the government accounting standards and the restrictions on unassigned fund balances. Committed funds can be used to save for capital projects, while unassigned fund balances are available for use without restriction and can be used as a hedge against future budgetary uncertainty due to emergencies, recessions, delays, or even cuts in state funding. School districts may also accumulate unassigned balances to mitigate the impact of predictable increases in pension, health care, or labor contract costs.
