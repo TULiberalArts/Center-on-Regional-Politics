@@ -1,13 +1,13 @@
 ---
-# global predefined variables
-layout: tla_page
-permalink: /corp-policy-brief-hard-choices-ahead-for-pa-school-districts/
-published: true
-# meta-data variables
-title: CORP Policy Brief: Hard Choices Ahead for PA School Districts
+# global predefined variables 
+layout: tla_page 
+permalink: /corp-policy-brief-hard-choices-ahead-for-pa-school-districts/ 
+published: true 
+# meta-data variables 
+title: CORP Policy Brief: Hard Choices Ahead for PA School Districts 
 description: >-
 keywords: ''
-# custom variables
+# custom variables 
 ---
 **March 9, 2017**<br>
 
