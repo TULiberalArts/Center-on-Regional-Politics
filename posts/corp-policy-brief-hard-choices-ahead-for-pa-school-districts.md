@@ -9,7 +9,6 @@ description: >-
 keywords: ''
 # custom variables
 ---
-
 **March 9, 2017**<br>
 
 A recent [policy brief](https://drive.google.com/file/d/1nW6UleIv0O6Tc2wkrkEuxnr0eyPAnFuZ/view?usp=sharing) from the Center on Regional Politics, “Hard Choices Still Ahead,” forecasts the fiscal future for all 500 school districts in PA for the period 2015-16 through 2019-20. The brief and supporting interactive graphics and maps (below) project budget shortfalls that will require program cuts, higher taxes, or a combination of the two for the vast majority of Pennsylvania school districts. In short, the hard choices most districts have faced in the recent past will continue, making a decade of fiscal stress “the new normal” for public schools, teachers, students, and their families.
