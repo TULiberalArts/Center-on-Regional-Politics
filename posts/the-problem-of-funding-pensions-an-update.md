@@ -4,7 +4,7 @@ layout: tla_page
 permalink: /the-problem-of-funding-pensions-an-update/
 published: true
 # meta-data variables
-title: The Problem of Funding Pensions: An Update
+title: The Problem of Funding Pensions An Update
 description: >-
 keywords: ''
 # custom variables
