@@ -9,8 +9,8 @@ description: >-
 keywords:
 # custom variables
 ---
-**July 6, 2016**<br>
 
+**July 6, 2016**<br>
 A policy brief published by the Center on Regional Politics in July 2016 provides data on the status of fund balances for Pennsylvania’s 500 school districts at the close of fiscal year 2014-15. The data shows that total reserve funds for districts, charter schools and technical schools have increased by about $400 million since 2012-2013, from $4.3 billion to $4.7 billion. But only six of the 500 school districts have unassigned fund balances equal to or larger than their state subsidy.
 
 The brief summarizes aggregate trends for districts, as well as charters and technical schools, while data on specific districts’ reserve funds have been made available through the CORP website. The brief explains the four types of fund balances under government accounting standards and the restrictions on unassigned balances under state law. Districts may use “committed” fund balances to save for capital improvement projects in order to avoid borrowing. Meanwhile, “unassigned” balances are available for use without restrictions and serve as a hedge against economic and budgetary uncertainty. For example, districts with unassigned funds used these to sustain their operations during delays in state subsidy payments in the 2015-16 state budget impasse.
