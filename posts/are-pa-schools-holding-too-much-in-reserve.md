@@ -9,8 +9,8 @@ description: >-
 keywords:
 # custom variables
 ---
-**July 14, 2017**<br>
 
+**July 14, 2017**<br>
 A [policy brief](https://drive.google.com/file/d/1vAhD3miVaOfumF05Rbj0MAJKxtI6D4zn/view?usp=sharing) published by the Center on Regional Politics in July 2017 provides data on the status of fund balances for Pennsylvania’s 500 school districts at the end of fiscal year 2015-16. Although the data show that total reserve funds have increased by about $800 million since 2012-13, from $3.9 billion to $4.7 billion, they also show that the flexible reserves of most districts (439 of 500) are within or even below the minimum standards recommended by bond raters and government finance professionals and allowed by state law.
 
 <script id="infogram_0_distribution_of_districts_by_percent_of_expenditures_in_unassigned_fund_balance_2014_15_and_2015_16" title="Distribution of Districts by Percent of Expenditures in Unassigned Fund Balance, 2014-15 and 2015-16" src="https://e.infogram.com/js/dist/embed.js?tWp" type="text/javascript"></script>
