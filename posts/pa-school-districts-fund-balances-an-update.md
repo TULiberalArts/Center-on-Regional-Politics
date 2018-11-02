@@ -4,7 +4,7 @@ layout: tla_page
 permalink: /pa-school-districts-fund-balances-an-update/
 published: true
 # meta-data variables
-title: PA School Districts’ Fund Balances: An Update
+title: PA School Districts’ Fund Balances An Update
 description: >-
 keywords:
 # custom variables
