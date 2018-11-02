@@ -1,6 +1,6 @@
 ---
 # global predefined variables 
-layout: tla_page 
+layout: tla_page
 permalink: /corp-policy-brief-hard-choices-ahead-for-pa-school-districts/ 
 published: true 
 # meta-data variables 
