@@ -4,9 +4,9 @@ layout: tla_page
 permalink: /corp-policy-brief-hard-choices-ahead-for-pa-school-districts/ 
 published: true 
 # meta-data variables 
-title: CORP Policy Brief: Hard Choices Ahead for PA School Districts 
+title: CORP Policy Brief Hard Choices Ahead for PA School Districts 
 description: >-
-keywords: ''
+keywords: 
 # custom variables 
 ---
 
