@@ -11,7 +11,7 @@ keywords:
 
 ## Need Description for this page 
 
-- **July 16, 2018:** [PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/posts/recent-news/pa-school-district-fund-balances-update-2018/)
+- **July 16, 2018:** [PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/pa-school-district-fund-balances-update-2018/)
  
 - **July 14, 2017:** [Are PA Schools Holding Too Much in Reserve?](develop.cla.temple.edu/center-on-regional-politics/are-pa-schools-holding-too-much-in-reserve/)
 
