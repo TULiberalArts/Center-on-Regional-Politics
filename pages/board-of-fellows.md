@@ -10,6 +10,8 @@ keywords:
 # custom variables
 ---
 ## 2018 Board of Fellows
+Because the Center on Regional Politics (CORP) does not advocate or lobby for specific legislation, it’s crucial for CORP’s fellows to be a diverse socio-economic group with divergent backgrounds. Our fellows bring a multitude of passions and ideas to their public policy research. This ensures the information CORP passes along to government, business and nonprofit leaders is representative assorted needs of residents of Philadelphia and its four collar counties. Fellows include state legislators, U.S. congressmen, university professors, business executives and more.
+
 ### Federal Elected
 - The Honorable Dwight Evan- Member, U.S. House of Representatives
 
