@@ -11,7 +11,7 @@ keywords:
 ---
 ![CORP logo]({{site.baseurl}}/media/resizedcorplogo.png){:.responsive-img .img-right}
 ## Symposium and Consortium Archives
-The follwing links below lead to the detailed archives of the center's past symposiums and consortium's. 
+The following links below lead to the detailed archives of the center's past symposiums and consortiums. 
 
 - [The University Consortium to Improve Public School Finance and Promote Economic Growth](https://sites.temple.edu/corparchives/the-university-consortium/)
 
