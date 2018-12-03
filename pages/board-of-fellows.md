@@ -13,11 +13,10 @@ keywords:
 Because the Center on Regional Politics (CORP) does not advocate or lobby for specific legislation, it’s crucial for CORP’s fellows to be a diverse socio-economic group with divergent backgrounds. Our fellows bring a multitude of passions and ideas to their public policy research. This ensures the information CORP passes along to government, business and nonprofit leaders is representative assorted needs of residents of Philadelphia and its four collar counties. Fellows include state legislators, U.S. congressmen, university professors, business executives and more.
 
 ### Federal Elected
-- The Honorable Dwight Evan- Member, U.S. House of Representatives
+- The Honorable Dwight Evans- Member, U.S. House of Representatives
 
 ### Statewide
 - The Honorable Eugene DePasquale- Auditor General, Commonwealth of PA, and Chairman, Delaware River Port Authority
-- The Honorable Michael J. Stack, III- Lieutenant Governor, Commonwealth of PA
 
 ___
 
@@ -25,9 +24,7 @@ ___
 - The Honorable Andrew E. Dinnima- Member, Pennsylvania Senate
 - The Honorable Art Haywood- Member, Pennsylvania Senate
 - The Honorable Vincent J. Hughes- Member, Pennsylvania Senate
-- The Honorable Thomas H. Killion- Member, Pennsylvania Senate
 - The Honorable Daylin Leach- Member, Pennsylvania Senate
-- The Honorable Thomas J. McGarrigle- Member, Pennsylvania Senate
 - The Honorable John C. Rafferty, Jr.- Member, Pennsylvania Senate
 - The Honorable Christine M. Tartaglione- Member, Pennsylvania Senate
 - The Honorable Robert M. Tomlinson-	Member, Pennsylvania Senate
@@ -35,23 +32,15 @@ ___
 - The Honorable Kevin J. Boyle-	Member, Pennsylvania House of Representatives
 - The Honorable Timothy P. Briggs-	Member, Pennsylvania House of Representatives
 - The Honorable Donna Bullock-	Member, Pennsylvania House of Representatives
-- The Honorable Alexander T. Charlton-	Member, Pennsylvania House of Representatives
 - The Honorable Carolyn T. Comitta- Member, Pennsylvania House of Representatives
 - The Honorable Mary Jo Daley-	Member, Pennsylvania House of Representatives
 - The Honorable Gene DiGirolamo-	Member, Pennsylvania House of Representatives
 - The Honorable Maria P. Donatucci-	Member, Pennsylvania House of Representatives
 - The Honorable Robert W. Godshall-	Member, Pennsylvania House of Representatives
-- The Honorable Kate Harper- Member, Pennsylvania House of Representatives
 - The Honorable Tim Hennessey-	Member, Pennsylvania House of Representatives
-- The Honorable Warren Kampf-	Member, Pennsylvania House of Representatives
-- The Honorable William F. Keller-	Member, Pennsylvania House of Representatives
 - The Honorable Stephen Kinsey-	Member, Pennsylvania House of Representatives
 - The Honorable Harry Lewis, Jr.-	Member, Pennsylvania House of Representatives
-- The Honorable Michael H. O'Brien-	Member, Pennsylvania House of Representatives
-- The Honorable Marguerite C. Quinn-	Member, Pennsylvania House of Representatives
 - The Honorable James R. Roebuck, Jr.-	Member, Pennsylvania House of Representatives
-- The Honorable John J. Taylor-	Member, Pennsylvania House of Representatives
-- The Honorable W. Curtis Thomas-	Member, Pennsylvania House of Representatives
 
 ___
 
