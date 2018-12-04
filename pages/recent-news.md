@@ -8,7 +8,7 @@ title: Recent News
 keywords:
 # custom variables
 ---
-Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore the big questions currently affecting the public in Southeastern Pennsylvania. From public school systems to government funding and other major public policy concerns, CORP examines the data to uncover important findings that benefit the entire region when shared with local leaders.
+Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region.
 
 - **July 16, 2018:** [PA School District Fund Balances Update 2018](http://develop.cla.temple.edu/center-on-regional-politics/pa-school-district-fund-balances-update-2018/)
  
