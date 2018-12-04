@@ -9,7 +9,7 @@ description: >-
 keywords:
 # custom variables
 ---
-The Center on Regional Politics (CORP) has three affiliated centers housed within Temple University’s College of Liberal Arts. By collaborating on cross-disciplinary work with these affiliated centers, CORP is able to maximize the effectiveness of its work improving the quality of life and economic opportunities in Southeastern Pennsylvania through public policy research.
+The Center on Regional Politics (CORP) has three affiliated centers housed within Temple University’s College of Liberal Arts. The [Institute for Public Affairs](#institute-for-public-affairs) houses both the Center on Regional Politics and the [Pennsylvania Policy Database Project](#pennsylvania-policy-database-project).
 
 ![IPA]({{site.baseurl}}/media/InstPubAffairs_Blk-300x104.jpg){:.responsive-img .img-right}
 Temple University’s [Institute for Public Affairs](http://develop.cla.temple.edu/institute-for-public-affairs/) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
