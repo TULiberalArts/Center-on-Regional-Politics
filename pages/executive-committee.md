@@ -10,7 +10,7 @@ keywords:
 # custom variables
 ---
 ## 2018 Executive Committee
-The Center on Regional Politics’ (CORP) Executive Committee oversees the selection of its fellows, the research projects the center’s fellows conduct and the briefs and other publications CORP’s staff and fellows author. To ensure the most honest, thorough and comprehensive public policy research and publications are generated, the Executive Committee is staffed by a diverse group of regional political thought leaders. Committee members include congressmen, business executives, nonprofit leaders, Temple University executives and other individuals dedicated to achieving CORP’s mission.
+The Center on Regional Politics’ (CORP) Executive Committee includes elected officials, business executives, nonprofit and labor leaders, and other individuals dedicated to achieving CORP’s mission. Committee members guide and advise on the public policy projects CORP undertakes and the agenda to which CORP dedicates its resources.
 
 ___
 
