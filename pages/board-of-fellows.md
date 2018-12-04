@@ -24,8 +24,8 @@ ___
 - The Honorable Andrew E. Dinnima- Member, Pennsylvania Senate
 - The Honorable Art Haywood- Member, Pennsylvania Senate
 - The Honorable Vincent J. Hughes- Member, Pennsylvania Senate
+- The Honorable Thomas H. Killion- Member, Pennsylvania Senate
 - The Honorable Daylin Leach- Member, Pennsylvania Senate
-- The Honorable John C. Rafferty, Jr.- Member, Pennsylvania Senate
 - The Honorable Christine M. Tartaglione- Member, Pennsylvania Senate
 - The Honorable Robert M. Tomlinson-	Member, Pennsylvania Senate
 - The Honorable Anthony H. Williams- Member, Pennsylvania Senate
@@ -36,11 +36,10 @@ ___
 - The Honorable Mary Jo Daley-	Member, Pennsylvania House of Representatives
 - The Honorable Gene DiGirolamo-	Member, Pennsylvania House of Representatives
 - The Honorable Maria P. Donatucci-	Member, Pennsylvania House of Representatives
-- The Honorable Robert W. Godshall-	Member, Pennsylvania House of Representatives
 - The Honorable Tim Hennessey-	Member, Pennsylvania House of Representatives
 - The Honorable Stephen Kinsey-	Member, Pennsylvania House of Representatives
-- The Honorable Harry Lewis, Jr.-	Member, Pennsylvania House of Representatives
 - The Honorable James R. Roebuck, Jr.-	Member, Pennsylvania House of Representatives
+- The Honorable Brian Sims- Member, Pennsylvania House of Representatives
 
 ___
 
@@ -67,7 +66,6 @@ ___
 - Feather O. Houstoun-	Former Member, School Reform Commission
 - George Kenney-	Senior Advisor to the President, Temple University
 - Patrick Killian-	Director, Delaware County Commerce Center
-- Meryl Levitz-	President and CEO, Visit Philadelphia
 - Paul Levy-	Executive Director, Center City District
 - Maud Lyon-	President, Greater Philadelphia Cultural Alliance
 - John J. McNichol-	President and CEO, PA Convention Center Authority
@@ -95,9 +93,9 @@ ___
 ___
 
 ### Academia
-- Carolyn T. Adams-	Professor Emerita, Department of Geography and Urban Studies, Temple University
+- [Carolyn T. Adams](https://liberalarts.temple.edu/academics/faculty/adams-carolyn)-	Professor Emerita, Department of Geography and Urban Studies, Temple University
 - Jim Cawley-	Vice President of Institutional Advancement, Temple University
-- Nyron N. Crawford-	Assistant Professor, Department of Political Science, Temple University
+- [Nyron N. Crawford](https://liberalarts.temple.edu/academics/faculty/crawford-nyron)-	Assistant Professor, Department of Political Science, Temple University
 - Richardson Dilworth-	Director, Center for Public Policy, Drexel University
 - Mark Alan Hughes-	Professor of Practice at PennDesign and Faculty Director of the Kleinman Center for Energy Policy, University of Pennsylvania
 - John J. Kennedy-	Associate Professor, Department of Political Science, West Chester University
