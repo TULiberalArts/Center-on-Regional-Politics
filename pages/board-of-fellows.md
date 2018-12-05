@@ -21,7 +21,7 @@ CORP’s Board of Fellows includes U.S. congressmen, state legislators, county e
 ___
 
 ### Pennsylvania General Assembly
-- The Honorable Andrew E. Dinnima- Member, Pennsylvania Senate
+- The Honorable Andrew E. Dinniman- Member, Pennsylvania Senate
 - The Honorable Art Haywood- Member, Pennsylvania Senate
 - The Honorable Vincent J. Hughes- Member, Pennsylvania Senate
 - The Honorable Thomas H. Killion- Member, Pennsylvania Senate
