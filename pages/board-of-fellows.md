@@ -10,7 +10,7 @@ keywords:
 # custom variables
 ---
 ## 2018 Board of Fellows
-CORP’s Board of Fellows includes U.S. congressmen, state legislators, county elected officials, university academics, business executives, and civic and labor leaders. Fellows act as a resource and sounding board for determining the policy problems most in need of addressing, and solutions most politically feasible.
+CORP’s Board of Fellows includes U.S. congressmen, state legislators, county elected officials, university academics, business executives and civic and labor leaders. Fellows act as a resource and sounding board for determining the policy problems most in need of addressing and the solutions that are most politically feasible.
 
 ### Federal Elected
 - The Honorable Dwight Evans- Member, U.S. House of Representatives
