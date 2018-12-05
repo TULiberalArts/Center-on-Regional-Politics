@@ -9,6 +9,6 @@ title: Publications
 research: research.html
 ---
 ## Research, Policy Briefs and Publications
-The Center on Regional Politics (CORP) publishes policy briefs, research notes, and other commentary related to its ongoing research projects. Publications aim to provide leaders and the public throughout the Philadelphia region with the information necessary to develop evidence-based policies that respond to broad civic and economic needs.
+The Center on Regional Politics (CORP) publishes policy briefs, research notes and other commentary related to its ongoing research projects. Publications aim to provide leaders and the public throughout the Philadelphia region with the information necessary to develop evidence-based policies that respond to broad civic and economic needs.
 
 ___
