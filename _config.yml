@@ -39,6 +39,8 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
   
+program_news: https://liberalarts.temple.edu/news/center-on-regional-politics
+  
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/center-on-regional-politics/csv
 news-feed: https://liberalarts.temple.edu/news/center-on-regional-politics/csv
