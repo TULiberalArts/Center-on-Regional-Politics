@@ -8,7 +8,6 @@ title: A Tale of Haves and Have-Nots - The Financial Future of Pennsylvania Scho
 description: >-
 keywords:
 # custom variables
-
 ---
 
 ## January 30, 2019: A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts
