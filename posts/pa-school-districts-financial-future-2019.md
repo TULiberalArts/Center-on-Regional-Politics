@@ -39,5 +39,5 @@ The map below allows viewing the report data by 5-year projected shortfalls and 
 
 ___
 
-View the [full report](https://drive.google.com/file/d/19erkTTHN9JJ2ABuFtl9PfSK5plG93WSK/view?usp=sharing).  
-View the [Research at a Glance](https://drive.google.com/file/d/1_JyZRd4lhwzQyoq1v5do7Hw0pcQlt4fw/view?usp=sharing). 
+View the [full report](https://drive.google.com/file/d/1FBgslpdsMzKfYD3PicrHJKh7GTVwsYHV/view).  
+View the [Research at a Glance](https://drive.google.com/file/d/1B6xtoq39lRBIF7QbTG2lBRafrOegz5nz/view?usp=sharing). 
