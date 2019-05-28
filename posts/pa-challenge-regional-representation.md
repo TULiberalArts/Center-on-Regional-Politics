@@ -18,7 +18,9 @@ The CORP studies reveal our state’s fiscal and economic imbalances. The first,
 
 On the interactive maps that accompany the school finance report and displayed below, most Southeast districts, shown in black, are “Haves” and will face fewer challenges in balancing their budgets between now and FY 2022.  Yet, almost half, shown in red, are “Have-Nots” for whom the fiscal outlook is continuing budget shortfalls. In the rest of Pennsylvania, the imbalance is the reverse. Most school districts are red “Have-Nots” and fewer are black “Haves.” And for virtually all school districts, even in the Southeast, the state’s major subsidy increases will fail to cover state-mandated cost increases for pensions and charter schools.
 
-<iframe width="100%" height="520" frameborder="0" src="https://mjather.carto.com/builder/c65fe742-52e9-482c-af64-4bd3bf9a22c8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<div class="container video-container">
+  <iframe width="100%" height="520" frameborder="0" src="https://mjather.carto.com/builder/c65fe742-52e9-482c-af64-4bd3bf9a22c8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div> 
 
 The second study shows that the five-county Southeast region contributes more in revenues to the Commonwealth’s General Fund than it draws down in grants and subsidies. Yet within the Southeast are pockets of deep poverty and critical infrastructure needs that can best be addressed with statewide policies. And the Commonwealth itself faces daunting long-term challenges such as meeting the needs of a growing population of older citizens with a shrinking population of tax-paying workers, too many of whom lack the skills or education to compete in a global economy that is being transformed by technology. Recognizing these challenges, business and civic leaders across the state are building a Grow PA coalition to promote policies that lift the state’s economy to benefit all Pennsylvanians.  
 
