@@ -10,6 +10,8 @@ keywords:
 ---
 Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region
 
+- **May 28, 2019:** [Southeast Pennsylvania and the Commonwealth Budget](http://www.cla.temple.edu/center-on-regional-politics/southeast-pa-commonwealth-budget/)
+
 - **January 30, 2019:** [A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts](http://www.cla.temple.edu/center-on-regional-politics/pa-school-districts-financial-future-2019/)
 
 - **July 16, 2018:** [PA School District Fund Balances Update 2018](http://www.cla.temple.edu/center-on-regional-politics/pa-school-district-fund-balances-update-2018/)
