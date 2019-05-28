@@ -8,7 +8,9 @@ title: Recent News
 keywords:
 # custom variables
 ---
-Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region
+Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region.
+
+___
 
 - **May 28, 2019:** Southeast Pennsylvania and the Commonwealth Budget
 
