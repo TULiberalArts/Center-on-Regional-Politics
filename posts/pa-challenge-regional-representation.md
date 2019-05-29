@@ -9,7 +9,7 @@ description: >-
 keywords:
 # custom variables
 ---
-## Commentary: Can Pennsylvania Meet the Challenge of Changing Regional Representation?
+### Commentary: Can Pennsylvania Meet the Challenge of Changing Regional Representation?
 
 **_Joseph P. McLaughlin, Jr._**
 Can we find a common theme in the election results that have shaped today’s General Assembly and two studies recently published by Temple’s Center on Regional Politics (CORP)? If so, perhaps it is the importance of recognizing reciprocity as a fundamental strategy to address Pennsylvania’s widening economic and political divides.
