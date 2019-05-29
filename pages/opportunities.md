@@ -9,7 +9,7 @@ description: >-
 keywords:
 # custom variables
 ---
-The center will serve as a point of contact for elected officials seeking student interns in local, state, or federal legislative or executive offices.
+The center will serve as a point of contact for elected officials seeking student interns in local, state, or federal legislative or executive offices..
 
 - Temple’s [Pennsylvania Capital Semester](http://develop.cla.temple.edu/institute-for-public-policy/the-pennsylvania-capital-semester/) provides full-time, 15-credit internships in Harrisburg during the fall and spring and is open to students of any college or university, as well as any major.
 
@@ -100,5 +100,3 @@ Please send your resume and a writing sample to [RepSims@pahouse.net](mailto:Rep
 
 **Fellowships:**
 [Pennsylvania Budget and Policy Center](http://www.cbpp.org/fellowship/)
-
- 

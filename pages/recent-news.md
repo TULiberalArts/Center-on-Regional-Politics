@@ -5,7 +5,6 @@ permalink: /recent-news/
 published: true
 # meta-data variables
 title: Recent News
-keywords:
 # custom variables
 ---
 Keep up to date on the latest happenings at the Center on Regional Politics (CORP). CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region.
