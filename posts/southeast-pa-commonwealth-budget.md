@@ -14,7 +14,7 @@ To match demographic and budget data, the report uses the latest available infor
 
 Revenues and expenditures included in the report are only for those that could be directly attributable to a geographic region, or could reasonably be estimated by county.
 
-The Commonwealth’s total operating budget for fiscal year 2015-16 was $75.7 billion, an average annual increase of 3.1% since fiscal 2008-2009, the year used in a previous study by the Economy League of Greater Philadelphia.
+The Commonwealth’s total operating budget for fiscal year 2015-16 was $75.7 billion, an average annual increase of 3.1% since fiscal 2008-09, the year used in a previous study by the Economy League of Greater Philadelphia.
 
 <script id="infogram_0_30d84306-eba7-495d-87c9-350fbeb55b35" title="PA Operating Budget 2008-09, $" src="https://e.infogram.com/js/dist/embed.js?NUO" type="text/javascript"></script>
 
@@ -26,7 +26,7 @@ The State General Fund is the largest operating fund and provides for government
 
 <script id="infogram_0_4bc5bdee-d107-4602-a749-ac94dd641120" title="PA General Fund Revenue Sources 2015-16" src="https://e.infogram.com/js/dist/embed.js?NTw" type="text/javascript"></script>
 
-In Pennsylvania, the average annual growth rate of State General Fund revenues from 2008-09 to 2015-16 was 2.8% compared with 3.0% over the ten years prior to that. State General Fund tax revenues dropped in 2008-2009 and did not return to pre-recession levels for four years (until 2012-13).
+In Pennsylvania, the average annual growth rate of State General Fund revenues from 2008-09 to 2015-16 was 2.8% compared with 3.0% over the ten years prior to that. State General Fund tax revenues dropped in 2008-09 and did not return to pre-recession levels for four years (until 2012-13).
 
 <script id="infogram_0_a2d9e9a1-d33b-48d5-beae-7b34e6542426" title="Operating Budget by Fund over time" src="https://e.infogram.com/js/dist/embed.js?Ea9" type="text/javascript"></script>
 
@@ -46,7 +46,7 @@ Total revenues included in the study account for $27.18 billion, 89.93% of the S
 
 The State General Fund includes general revenues from which spending is appropriated for the general expenses of the state. General funds, unlike special funds, which are specific purpose dedicated funding, provide more flexibility to the legislature in how the funds can be spent.
 
-Education spending (Pre-K-12 and higher education) dominates expenditures from the State General Fund comprising 41.1%, followed closely by health and human services and medical assistance at 39%. These categories dwarf other spending categories. Total expenditures for the State General Fund for fiscal 2015-16 were $30.1 billion.
+Education spending (Pre-K-12 and higher education) dominates expenditures from the State General Fund comprising 41.2%, followed closely by health and human services and medical assistance at 39%. These categories dwarf other spending categories. Total expenditures for the State General Fund for fiscal 2015-16 were $30.1 billion.
 
 Expenditures from the State General Fund attributable to a specific county total $19.79 billion, or 65.68% of the total fund. The region as a whole receives $6.53 billion, or 32.98% of the State General Fund expenditures covered in the analysis, slightly more than its share of the population (due mainly to the region’s slightly larger share of poverty), but less than its share of regional revenues.
 
