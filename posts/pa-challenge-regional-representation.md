@@ -11,7 +11,7 @@ keywords:
 ---
 ### Commentary: Can Pennsylvania Meet the Challenge of Changing Regional Representation?
 
-**_Joseph P. McLaughlin, Jr._**
+**_Joseph P. McLaughlin, Jr._**<br>
 Can we find a common theme in the election results that have shaped today’s General Assembly and two studies recently published by Temple’s Center on Regional Politics (CORP)? If so, perhaps it is the importance of recognizing reciprocity as a fundamental strategy to address Pennsylvania’s widening economic and political divides.
 
 The CORP studies reveal our state’s fiscal and economic imbalances. The first, published in January and titled [_A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania’s Schools_](http://www.cla.temple.edu/center-on-regional-politics/pa-school-districts-financial-future-2019/), is a five-year fiscal forecast for all 500 school districts. The second, published this month, is an issue memo titled simply [_Southeast Pennsylvania and the Commonwealth Budget_](https://www.cla.temple.edu/center-on-regional-politics/southeast-pa-commonwealth-budget/). Both of these studies, and similar articles and reports produced by others in recent months, show the eastern half of Pennsylvania, and our region in particular, as economically and fiscally better off than the central and western regions.  
@@ -32,7 +32,7 @@ In just the last 10 years, the Southeast and Southwest regional delegations have
 
 <script id="infogram_0_190a83c8-f559-4a8a-b1e5-9af39f511f9f" title="SE and SW 2" src="https://e.infogram.com/js/dist/embed.js?4YE" type="text/javascript"></script>
 
-<script id="infogram_0_190a83c8-f559-4a8a-b1e5-9af39f511f9f" title="SE and SW 2" src="https://e.infogram.com/js/dist/embed.js?4YE" type="text/javascript"></script>
+<script id="infogram_0_e643b6ac-af88-4a6e-9d8a-2b8039ed4923" title="SE and SW Exc. Phila. and Allegheny" src="https://e.infogram.com/js/dist/embed.js?oMN" type="text/javascript"></script>
 
 Conventional wisdom is that the replacement of moderate Republicans by liberal Democrats in the Southeast will result in a more ideologically polarized and gridlocked legislature. The upstate-based Republican caucuses will be smaller and more conservative but still in the majority, and the Southeast-based Democratic caucuses will be larger and more liberal but still in the minority. Studies have shown that when political parties mirror rather than mitigate society’s other cleavages, the results are not good for democracies.
 
@@ -40,7 +40,7 @@ A challenge to achieving the Southeast’s legislative goals is the relative ine
 
 The challenge for the Southeast will be to unify members representing very different districts behind issues that are regional priorities, to develop relationships with legislators from other regions with different problems, and to help them solve their problems in exchange for their help in solving ours. A unified Southeast delegation represents almost a third of the House and Senate. For the majorities needed to enact laws, that’s a lot of help.
 
-This approach to dealing with the Commonwealth’s economic and political imbalances is as old as politics itself. Aristotle noted centuries ago that reciprocity is critical to the operation of economies and politics. Economic exchange between buyers and sellers, he said, “holds people together” creating a mutual interest in shared prosperity. And taking turns in ruling and being, he said, “saves cities”, which, in his time, were also states. 
+This approach to dealing with the Commonwealth’s economic and political imbalances is as old as politics itself. Aristotle noted centuries ago that reciprocity is critical to the operation of economies and politics. Economic exchange between buyers and sellers, he said, “holds people together” creating a mutual interest in shared prosperity. And taking turns in ruling and being, he said, “saves cities," which, in his time, were also states. 
 
 For us, political reciprocity means a two-party system in which the legitimacy of each party depends on the existence of the other so voters can choose policies and change rulers. For legislators, it can also mean taking turns in voting to meet the needs of other economic regions and political communities. Let’s hope that political reciprocity can save not just cities but counties, towns, school districts, and the Commonwealth of Pennsylvania.
 
