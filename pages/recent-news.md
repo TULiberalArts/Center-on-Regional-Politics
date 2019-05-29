@@ -4,11 +4,11 @@ layout: tla_page
 permalink: /recent-news/
 published: true
 # meta-data variables
-title: Recent News 
+title: Recent News
 keywords:
 # custom variables
 ---
-Keep up to date on the latest happenings at the Center on Regional Politics (CORP)! CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region.
+Keep up to date on the latest happenings at the Center on Regional Politics (CORP). CORP news briefings explore current topics affecting the public in Pennsylvania and the Philadelphia region.
 
 ___
 
@@ -19,7 +19,7 @@ ___
 - **January 30, 2019:** [A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts](http://www.cla.temple.edu/center-on-regional-politics/pa-school-districts-financial-future-2019/)
 
 - **July 16, 2018:** [PA School District Fund Balances Update 2018](http://www.cla.temple.edu/center-on-regional-politics/pa-school-district-fund-balances-update-2018/)
- 
+
 - **July 14, 2017:** [Are PA Schools Holding Too Much in Reserve?](http://www.cla.temple.edu/center-on-regional-politics/are-pa-schools-holding-too-much-in-reserve/)
 
 - **March 9, 2017:** [CORP Policy Brief: Hard Choices Ahead for PA School Districts](http://www.cla.temple.edu/center-on-regional-politics/corp-policy-brief-hard-choices-ahead-for-pa-school-districts/)
