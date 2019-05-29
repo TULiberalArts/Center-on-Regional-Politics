@@ -12,6 +12,7 @@ keywords:
 ### Commentary: Can Pennsylvania Meet the Challenge of Changing Regional Representation?
 
 **_Joseph P. McLaughlin, Jr._**<br>
+
 Can we find a common theme in the election results that have shaped today’s General Assembly and two studies recently published by Temple’s Center on Regional Politics (CORP)? If so, perhaps it is the importance of recognizing reciprocity as a fundamental strategy to address Pennsylvania’s widening economic and political divides.
 
 The CORP studies reveal our state’s fiscal and economic imbalances. The first, published in January and titled [_A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania’s Schools_](http://www.cla.temple.edu/center-on-regional-politics/pa-school-districts-financial-future-2019/), is a five-year fiscal forecast for all 500 school districts. The second, published this month, is an issue memo titled simply [_Southeast Pennsylvania and the Commonwealth Budget_](https://www.cla.temple.edu/center-on-regional-politics/southeast-pa-commonwealth-budget/). Both of these studies, and similar articles and reports produced by others in recent months, show the eastern half of Pennsylvania, and our region in particular, as economically and fiscally better off than the central and western regions.  
@@ -23,6 +24,7 @@ On the interactive maps that accompany the school finance report and displayed b
   <iframe width="100%" height="520" frameborder="0" src="https://mjather.carto.com/builder/c65fe742-52e9-482c-af64-4bd3bf9a22c8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div> 
 
+___
 
 The [second study](https://www.cla.temple.edu/center-on-regional-politics/southeast-pa-commonwealth-budget/) shows that the five-county Southeast region contributes more in revenues to the Commonwealth’s General Fund than it draws down in grants and subsidies. Yet within the Southeast are pockets of deep poverty and critical infrastructure needs that can best be addressed with statewide policies. And the Commonwealth itself faces daunting long-term challenges such as meeting the needs of a growing population of older citizens with a shrinking population of tax-paying workers, too many of whom lack the skills or education to compete in a global economy that is being transformed by technology. Recognizing these challenges, business and civic leaders across the state are building a Grow PA coalition to promote policies that lift the state’s economy to benefit all Pennsylvanians.  
 
