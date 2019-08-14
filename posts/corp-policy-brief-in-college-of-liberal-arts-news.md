@@ -11,7 +11,7 @@ keywords:
 ---
 
 **February 5, 2016**<br>
-A [policy brief](https://drive.google.com/file/d/1QkQLzGhx0js_MdFtBXVjfdKIDvlO_1Er/view?usp=sharing) published by the Temple University Center on Regional Politics approaches the question of how Philadelphia compares to other large cities in the U.S. in terms of its level of overall tax effort, as well as for particular functions, including K-12 public education.
+A [policy brief](https://sites.temple.edu/corparchives/files/2019/08/2Tax-Effort-Philly-Web.pdf) published by the Temple University Center on Regional Politics approaches the question of how Philadelphia compares to other large cities in the U.S. in terms of its level of overall tax effort, as well as for particular functions, including K-12 public education.
 
 “This analysis shows Philadelphia’s taxpayers are supporting their public schools at least as strongly as most big U.S. cities, despite complaints from critics here and in Harrisburg that they are not,” says Joseph P. McLaughlin, Jr., director of the center and co-author of the report.
 
