@@ -66,5 +66,5 @@ An alternative approach using estimates based on state and county populations to
 
 <script id="infogram_0_cb8284ea-3c06-4357-bbe2-0f86fcba1107" title="Shares of State General Fund Revenues and Expenditures, Alternative Methodology" src="https://e.infogram.com/js/dist/embed.js?Ehf" type="text/javascript"></script>
 
-- View a pdf of the [Research at a Glance](https://drive.google.com/file/d/1v8pFXRgAmd1m4a6iYhQC3brKft6IRiCK/view?usp=sharing).
-- View a pdf of the full [Issue Memo](https://drive.google.com/file/d/1eMz3GxrtngNrpEm5eHfAiV2Eu2Y158uS/view?usp=sharing).
+- View a pdf of the [Research at a Glance](https://sites.temple.edu/corparchives/files/2019/08/SE-Budget-at-a-Glance.pdf).
+- View a pdf of the full [Issue Memo](https://sites.temple.edu/corparchives/files/2019/08/SE-Budget-and-General-Fund.pdf).
