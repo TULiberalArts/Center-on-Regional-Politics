@@ -39,5 +39,5 @@ The map below allows viewing the report data by 5-year projected shortfalls and 
 
 ___
 
-View the [full report](https://drive.google.com/file/d/1FBgslpdsMzKfYD3PicrHJKh7GTVwsYHV/view).  
-View the [Research at a Glance](https://drive.google.com/file/d/1B6xtoq39lRBIF7QbTG2lBRafrOegz5nz/view?usp=sharing). 
+View the [full report](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Forecast-Update-at-a-Glance-2019.pdf).  
+View the [Research at a Glance](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Forecast-Update-at-a-Glance-2019.pdf). 
