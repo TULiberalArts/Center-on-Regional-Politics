@@ -49,8 +49,8 @@ Districts with large shortfalls relative to their total budget face a more diffi
 
 See PA school district maps, including options to view actual spending and projections by PA House and Senate districts, in the maps below.
 
-- Read the [full policy brief](https://drive.google.com/file/d/1nW6UleIv0O6Tc2wkrkEuxnr0eyPAnFuZ/view?usp=sharing).
-- Find the pdf of the [research at a glance](https://drive.google.com/file/d/1INIcNrT-8KFoLlQwseG7PfkhhXZqZMHL/view?usp=sharing) for this policy brief.
+- Read the [full policy brief](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Outlook-2017-Update-Policy-Brief.pdf).
+- Find the pdf of the [research at a glance](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Forecast-Update-at-a-Glance.pdf) for this policy brief.
 
 **Actual $ Changes for PA School Districts 2010-11 to 2014-15**<br>
 
